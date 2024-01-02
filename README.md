@@ -1,2 +1,2 @@
 # new-angular
-Testing new angular structure
+Testing new angular structure without modules
